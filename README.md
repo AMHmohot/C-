@@ -1,2 +1,6 @@
-# C-
+# C++
 This repository showcase my skill  in C++ throughout the CS 210 course in Southern New Hampshire University
+
+
+In order to help grocery shop owners maximize product placement depending on sales frequency, the Corner Grocer Item Tracking System was built to analyze purchase information. The application reads a text file to count and show items through a menu-driven interface that includes a histogram, frequency lists, and item lookup. I efficiently managed item tracking by implementing a class-based method with maps. There is room for development in the field of file handling optimization, which could involve employing more efficient data structures or introducing multithreading for massive datasets to increase performance and safety. I conquered the most difficult part—managing file I/O operations and ensuring proper data retrieval—by using official C++ resources and zyBooks documentation. This project's classes, file management, and user interaction logic are very portable to other data-driven apps you could learn to use in school or on the job. The software is now easier to debug and scale because of my adherence to best practices for maintainability, which include using descriptive variable names, in-line comments, and a modular code design. 
+
